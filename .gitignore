@@ -1,0 +1,7 @@
+# Project exclude paths
+/.gradle/
+/Git Internals/task/build/
+/Git Internals/task/out/
+/Git Internals/task/out/production/classes/
+/Topics/For loop and lists/For loops task/out/
+/Topics/For loop and lists/For loops task/out/production/classes/
